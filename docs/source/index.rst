@@ -18,5 +18,16 @@ Contents
 
 .. toctree::
 
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting Started
+
    usage
+
+.. toctree::
+
+   :maxdepth: 2
+   :hidden:
+   :caption: App Services
+   
    api
