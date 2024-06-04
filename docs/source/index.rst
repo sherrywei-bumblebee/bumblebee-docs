@@ -1,8 +1,8 @@
 Welcome to Bumblebee Networks documentation!
 =================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**Bumblebee Networks** is a networking company that provides 
+Global Private Link service to everyone on earth. 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
