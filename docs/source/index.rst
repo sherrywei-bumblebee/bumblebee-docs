@@ -27,16 +27,18 @@ Table of Contents
 
    :maxdepth: 1
    :caption: Table of Contents
+   :titleonly:
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
 
 .. _API::
-   
+
 .. toctree::
 
      :maxdepth: 1
      :caption: api
+     :titleonly:
 
    api
 
