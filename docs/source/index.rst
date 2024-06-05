@@ -24,7 +24,7 @@ how to :ref:`installation` the project.
 
    :maxdepth: 1
    :caption: Table of Contents
-   :titleonly:
+   :titlseonly:
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
@@ -35,9 +35,9 @@ how to :ref:`installation` the project.
 
      :maxdepth: 1
      :caption: api
-     :titleonly:
+     :titlesonly:
 
-   api
+     api
 
 
 
