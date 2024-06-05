@@ -24,7 +24,7 @@ how to :ref:`installation` the project.
 .. toctree::
 
    :maxdepth: 1
-   :caption: Table of Contents
+   :caption: Getting Started
    :titlesonly:
 
    GettingStarted/faq
@@ -35,7 +35,7 @@ how to :ref:`installation` the project.
 .. toctree::
 
      :maxdepth: 1
-     :caption: api
+     :caption: API
      :titlesonly:
 
      api
