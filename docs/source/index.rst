@@ -16,30 +16,21 @@ how to :ref:`installation` the project.
 
 
 
-* :ref:`Getting Started`
-* :ref:`App Service`
 
-.. _Getting Started:
 
 .. toctree::
 
-   :maxdepth: 1
-   :hidden:
    :caption: Getting Started
   
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
 
-.. _App Service::
 
 .. toctree::
 
-     :maxdepth: 1
-     :hidden:
      :caption: App Service
     
-
      GettingStarted/how_to_subscribe
 
 
