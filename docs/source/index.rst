@@ -20,7 +20,7 @@ how to :ref:`installation` the project.
 .. toctree::
 
    :maxdepth: 2
-   :caption: Table of Contents
+   :caption: Table of Contents:
 
    usage
    api
