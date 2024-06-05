@@ -23,7 +23,9 @@ Table of Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   GettingStarted/getting_started
+   GettingStarted/faq
+   GettingStarted/how_to_subscribe
+
    api
 
 
