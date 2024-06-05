@@ -35,7 +35,7 @@ how to :ref:`installation` the project.
 .. toctree::
 
      :maxdepth: 1
-     :caption: API
+     :caption: APP Service
      :titlesonly:
 
      api
