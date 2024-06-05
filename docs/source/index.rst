@@ -13,21 +13,20 @@ how to :ref:`installation` the project.
 
    This project is under active development, sign up for updates.
 
-Contents
---------
+* :ref:`Getting Started`
+
+.. _Getting Started
 
 .. toctree::
 
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 1
    :caption: Getting Started
 
    usage
 
 .. toctree::
 
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 1
    :caption: App Services
-   
+
    api
