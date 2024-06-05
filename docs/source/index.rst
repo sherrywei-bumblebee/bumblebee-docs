@@ -1,3 +1,4 @@
+=====================================
 Welcome to Bumblebee Networks!
 =====================================
 
@@ -22,9 +23,9 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Table of Contents
-   :titlseonly:
+   :titlesonly:
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
@@ -33,7 +34,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-     :maxdepth: 2
+     :maxdepth: 1
      :caption: api
      :titlesonly:
 
