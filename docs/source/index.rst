@@ -20,7 +20,7 @@ Table of Contents
 
 .. toctree::
 
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: Table of Contents
 
    GettingStarted/faq
