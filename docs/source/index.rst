@@ -22,7 +22,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Table of Contents
    :titlseonly:
 
@@ -33,7 +33,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-     :maxdepth: 1
+     :maxdepth: 2
      :caption: api
      :titlesonly:
 
