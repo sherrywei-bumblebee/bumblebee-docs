@@ -24,8 +24,9 @@ how to :ref:`installation` the project.
 .. toctree::
 
    :maxdepth: 1
+   :hidden:
    :caption: Getting Started
-   :titlesonly:
+  
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
@@ -35,8 +36,9 @@ how to :ref:`installation` the project.
 .. toctree::
 
      :maxdepth: 1
+     :hidden:
      :caption: App Service
-     :titlesonly:
+    
 
      GettingStarted/how_to_subscribe
 
