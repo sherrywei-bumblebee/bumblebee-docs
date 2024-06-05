@@ -19,19 +19,15 @@ how to :ref:`installation` the project.
 
 
 .. toctree::
-
    :caption: Getting Started
   
-
    GettingStarted/faq
    GettingStarted/how_to_subscribe
 
-
 .. toctree::
-
-     :caption: App Service
+   :caption: App Service
     
-     GettingStarted/how_to_subscribe
+   GettingStarted/how_to_subscribe
 
 
 
