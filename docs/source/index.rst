@@ -20,9 +20,9 @@ Global Private Link service to everyone on earth.
    GettingStarted/how_to_subscribe
 
 .. toctree::
-   :caption: App Service
+   :caption: App Services
     
-   GettingStarted/how_to_subscribe
+   AppService/create_app_service_onprem
 
 
 
