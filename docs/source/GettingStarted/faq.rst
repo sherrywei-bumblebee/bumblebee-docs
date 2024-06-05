@@ -1,4 +1,4 @@
-Getting Started and FAQs
+Getting Started
 =========================
 
 This document is getting started guide with Bumblebee Networks and provides a wide range of FAQs. 

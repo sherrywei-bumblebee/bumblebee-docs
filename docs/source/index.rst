@@ -24,6 +24,7 @@ Table of Contents
    :caption: Table of Contents
 
    GettingStarted/faq
+   GettingStarted/how_to_subscribe
    api
 
 
