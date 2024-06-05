@@ -20,11 +20,10 @@ Table of Contents
 
 .. toctree::
 
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Table of Contents
 
-   GettingStarted/faq
-   GettingStarted/how_to_subscribe
+   getting_started
    api
 
 
