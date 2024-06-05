@@ -9,9 +9,9 @@ Where do I start if I am the provider of an application?
 
 Click App Services to create an App Service for your application. 
 
-If your application is located on-prem, follow the instructions to create an App Service for an on-prem app 
-If your application is located in AWS, follow the instructions to create an App Service for an AWS app. 
-If your application is located in Azure, follow the instructions to create an App Service for Azure app. 
+- If your application is located on-prem, follow the instructions to create an App Service for an on-prem app 
+- If your application is located in AWS, follow the instructions to create an App Service for an AWS app. 
+- If your application is located in Azure, follow the instructions to create an App Service for Azure app. 
 
 Where do I start if I am the consumer to an application?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
