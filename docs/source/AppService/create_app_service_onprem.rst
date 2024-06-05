@@ -30,9 +30,10 @@ follow the steps below to create an App Service:
 #. For Port, enter a port or a port range. The format is, for example, 80, or 443:444. Multiple ranges with comma separations are accepted. For example, 443:444, 500:501
 
 #. For App on-prem DNS Name or IP, enter the local DNS name for the application if there is one. 
-This local DNS name is for the App Service to reach the application to forward connection requests or 
-packets to the application. If you are creating the very first App Service in an on-premise location, 
-the Service Node Group should be empty. Click New Group to create one. Service Node Group is a scaling 
+    This local DNS name is for the App Service to reach the application to forward connection requests or 
+    packets to the application. 
+
+#. If you are creating the very first App Service in an on-premise location, the Service Node Group should be empty. Click New Group to create one. Service Node Group is a scaling 
 group where multiple Service Nodes for the same App Service ID can be load balanced for higher performance. 
 
 #. Once a Service Node is created following the instructions list here, return to the current page and select a Service Node Group in the drop down menu. 
