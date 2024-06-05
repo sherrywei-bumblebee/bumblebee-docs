@@ -15,9 +15,6 @@ how to :ref:`installation` the project.
 
 
 
-Table of Contents
-===================
-
 * :ref:`Getting Started`
 * :ref:`API`
 
