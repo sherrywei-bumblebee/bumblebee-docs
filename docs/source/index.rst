@@ -13,24 +13,17 @@ how to :ref:`installation` the project.
 
    This project is under active development, sign up for updates.
 
-* :ref:`usage`
-* :ref:`api`
 
-.. _usage
+
+
 
 .. toctree::
 
-   :maxdepth: 1
-   :caption: Getting Started
+   :maxdepth: 2
+   :caption: Table of Contents
 
    usage
-
-
-.. _api
-
-.. toctree::
-
-   :maxdepth: 1
-   :caption: How is it done
-
    api
+
+
+
