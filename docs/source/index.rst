@@ -18,13 +18,25 @@ how to :ref:`installation` the project.
 Table of Contents
 ===================
 
+* :ref:`Getting Started`
+* :ref:`API`
+
+.. _Getting Started:
+
 .. toctree::
 
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Table of Contents
 
    GettingStarted/faq
    GettingStarted/how_to_subscribe
+
+.. _API::
+   
+.. toctree::
+
+     :maxdepth: 1
+     :caption: api
 
    api
 
