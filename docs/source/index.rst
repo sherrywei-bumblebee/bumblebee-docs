@@ -23,7 +23,7 @@ Table of Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   getting_started
+   GettingStarted/getting_started
    api
 
 
