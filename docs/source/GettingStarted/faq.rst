@@ -1,6 +1,10 @@
 Getting Started and FAQs
 =========================
 
+This document is getting started guide with Bumblebee Networks and provides a wide range of FAQs. 
+
+|bumblebee_diagram|
+
 Getting Started FAQs
 -----------------------
 
@@ -147,3 +151,5 @@ Check out How to increase Endpoint performance by scaling out.
 
 
 
+.. |bumblebee_diagram| image:: media/bumblebee_diagram.gif
+    :scale: 30%
