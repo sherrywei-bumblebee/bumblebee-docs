@@ -152,4 +152,4 @@ Check out How to increase Endpoint performance by scaling out.
 
 
 .. |bumblebee_diagram| image:: media/bumblebee_diagram.gif
-    :scale: 30%
+    :scale: 50%
