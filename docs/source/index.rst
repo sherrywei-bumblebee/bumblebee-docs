@@ -25,4 +25,9 @@ Global Private Link service to everyone on earth.
    AppService/create_app_service_onprem
 
 
+.. toctree::
+   :caption: Endpoints
+    
+   Endpoints/create_endpoint_onprem
+
 
