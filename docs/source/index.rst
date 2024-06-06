@@ -23,6 +23,7 @@ Global Private Link service to everyone on earth.
    :caption: App Services
     
    AppService/create_app_service_onprem
+   AppService/create_app_service_aws
 
 
 .. toctree::
