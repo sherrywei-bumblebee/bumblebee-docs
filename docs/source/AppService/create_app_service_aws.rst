@@ -1,17 +1,17 @@
 =========================================================
-Create App Service for an application in AWS
+Create App Service for AWS Application
 =========================================================
 
 This document shows you how to create a Bumblebee Networks App Service for applications in AWS. 
 
 
-(To create an App Service for an on-prem application, follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/AppService/create_app_service_onprem.html>`_)
+To create an App Service for an on-prem application, follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/AppService/create_app_service_onprem.html>`_.
 
 
-Prerequisite Steps (before creating App Service)
+Prerequisite Steps
 ===================================================
 
-1. **Setup AWS endpoint service**. The mechanism of connecting consumers of Bumblebee Network platform to applications in AWS is to use the native AWS endpoint service as the intermediary of your application, as shown below. You need to front end your application with an AWS endpoint service. Click to learn on how to `Configure an AWS endpoint service.<https://docs.aws.amazon.com/vpc/latest/privatelink/configure-endpoint-service.html>`_
+1. **Setup AWS endpoint service**. The mechanism of connecting consumers of Bumblebee Network platform to applications in AWS is to use the native AWS endpoint service as the intermediary of your application, as shown below. You need to front end your application with an AWS endpoint service. Click to learn on how to `Configure an AWS endpoint service. <https://docs.aws.amazon.com/vpc/latest/privatelink/configure-endpoint-service.html>`_
 #. **Grant access from Bumblebee Networks**. Grant access to Bumblebee Networks to connect to the AWS endpoint service by following the instruction here. 
 
 |cloud-app|
@@ -52,8 +52,8 @@ Once you have your AWS endpoint service setup and grant access from Bumblebee Ne
 
 
 
-.. |cloud-app] image:: media/cloud-app.png
-    :scale: 50%
+.. |cloud-app| image:: media/cloud-app.png
+    :scale: 30%
 
 .. |copy_service_name| image:: media/copy_service_name.png
-    :scale: 50%
+    :scale: 30%
