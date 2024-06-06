@@ -1,5 +1,5 @@
 ===================================================
-Create Endpoint for consumer in on-prem
+Create Endpoint for on-prem consumer
 ===================================================
 
 
