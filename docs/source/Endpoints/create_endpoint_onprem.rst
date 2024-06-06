@@ -29,8 +29,7 @@ Below are the steps to create an Endpoint.
 #. Enter the endpoint name
 #. Enter the App Service ID you obtained from the App Service account owner. 
 #. For Location field, select on-prem.
-#. Select an Endpoint Node Group in the drop down menu. If the Endpoint Node Group list is empty, follow the instructions on How to create Endpoint Node and Endpoint Node Group to create one. 
-Select an Endpoint Node from the list under this group. If the Endpoint Node list is empty or you like to create a new one, follow the instructions on How to create Endpoint Node and Endpoint Node Group.
+#. Select an Endpoint Node Group in the drop down menu. If the Endpoint Node Group list is empty, follow the instructions on How to create Endpoint Node and Endpoint Node Group to create one. Select an Endpoint Node from the list under this group. If the Endpoint Node list is empty or you like to create a new one, follow the instructions on How to create Endpoint Node and Endpoint Node Group.
 #. Click Create.
 #. Once the Endpoint is created, its Admin State goes to "pending". An email notification is sent to the App Service account owner to approve your Endpoint. (If you own the App Service, go to App Services page, select the App Service and select the Endpoint and click Approve.)
 #. Once the Endpoint is approved, its Admin State changes to "accepted". 
