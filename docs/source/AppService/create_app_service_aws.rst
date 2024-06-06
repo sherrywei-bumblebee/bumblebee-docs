@@ -5,7 +5,7 @@ Create App Service for AWS Application
 This document shows you how to create a Bumblebee Networks App Service for applications in AWS. 
 
 
-To create an App Service for an on-prem application, follow the instructions `here. <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/AppService/create_app_service_onprem.html>`_`
+To create an App Service for an on-prem application, follow the instructions `here. <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/AppService/create_app_service_onprem.html>`_
 
 
 Prerequisite Steps
