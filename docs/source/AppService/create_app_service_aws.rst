@@ -40,7 +40,7 @@ Once you have your AWS endpoint service setup and grant access from Bumblebee Ne
 
 #. For AWS Endpoint Service Name field, copy and paste the text for Service Name created in the prerequisite step 1 in AWS console as shown below.
 
-|copy_service_name|
+    |copy_service_name|
 
 #. Click Create. 
 
@@ -56,4 +56,4 @@ Once you have your AWS endpoint service setup and grant access from Bumblebee Ne
     :scale: 30%
 
 .. |copy_service_name| image:: media/copy_service_name.png
-    :scale: 30%
+    :scale: 20%
