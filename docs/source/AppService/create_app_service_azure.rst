@@ -61,7 +61,8 @@ Once you have Azure private link service setup for your application, follow the 
     |allow_bumblebee_subscription|
 
 
-#. Back to Bumblebee Networks console, click Create. Below is an example to create an app service in Azure where the application is deployed in "West US 3" and its private link service ID is /subscriptions/78808ad5-d492-4750-9d5e-b4c2dda0188a/resourceGroups/APP1-RG/providers/Microsoft.Network/privateLinkServices/app-private-link-service
+#. Back to Bumblebee Networks console, click Create. 
+    Below is an example to create an app service in Azure where the application is deployed in "West US 3" and its private link service ID is /subscriptions/78808ad5-d492-4750-9d5e-b4c2dda0188a/resourceGroups/APP1-RG/providers/Microsoft.Network/privateLinkServices/app-private-link-service
 
     |app_service_azure|
 
