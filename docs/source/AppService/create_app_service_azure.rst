@@ -11,7 +11,7 @@ This document shows you how to create an app service for applications deployed i
 (To create an App Service for an application in AWS, follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/AppService/create_app_service_aws.html>`_)
 
 
-The mechanism for connecting consumers to applications in Azure is to use the native Azure private link service as the front end of your application, as shown below. Click to learn how to configure azure private link service. 
+The mechanism for connecting consumers to applications in Azure is to use the native Azure private link service as the front end of your application, as shown below. Click to learn how to `configure azure private link service. <https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-portal?tabs=dynamic-ip>`_ 
 
 |azure_app|
 
