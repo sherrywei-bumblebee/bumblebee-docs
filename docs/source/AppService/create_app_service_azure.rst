@@ -44,7 +44,7 @@ Once you have Azure private link service setup for your application, follow the 
 
 #. Allow application in Azure to accept connection request from Bumblebee Networks. At Azure Home portal 
 
-    #. Click Private Link, 
+    a. Click Private Link, 
     #. Click Private Link Services, 
     #. Click the private link service you wish to grant Bumblebee Networks for access. 
     #. Click Access security.
@@ -55,7 +55,7 @@ Once you have Azure private link service setup for your application, follow the 
     #. Go back to private link service page, Click Save. 
 
 
-As shown blew. Note if you enable Auto-approve, you do not need Step 12 in the following section. 
+    As shown blew. Note if you enable Auto-approve, you do not need Step 12 in the following section. 
 
 
     |allow_bumblebee_subscription|
