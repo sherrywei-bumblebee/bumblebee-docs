@@ -75,8 +75,8 @@ Once you have Azure private link service setup for your application, follow the 
 
 .. |azure_app| image:: media/azure_app.png
     :scale: 30%
-..|azure_private_link_service| image:: media/azure_private_link_service.png
+.. |azure_private_link_service| image:: media/azure_private_link_service.png
     :scale: 30%
-..|allow_bumblebee_subscription| image:: media/allow_bumblebee_subscription.png
+.. |allow_bumblebee_subscription| image:: media/allow_bumblebee_subscription.png
     :scale: 30%
-..|app_service_azure| image:: media/app_service_azure.png
+.. |app_service_azure| image:: media/app_service_azure.png
