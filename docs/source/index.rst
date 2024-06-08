@@ -27,6 +27,7 @@ Global Private Link service to everyone on earth.
    AppService/create_app_service_azure
    AppService/create_app_service_openai
    AppService/app_service_network_mode
+   AppService/multi-hosting
    
 
 .. toctree::
