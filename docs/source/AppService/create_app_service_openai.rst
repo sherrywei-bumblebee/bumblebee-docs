@@ -105,4 +105,4 @@ connect to the Azure OpenAI.
     :scale: 30%
 .. |vnet_resource_id| image:: media/vnet_resource_id.png
     :scale: 30%
-..|app_service_openai| image:: media/app_service_openai.png
+.. |app_service_openai| image:: media/app_service_openai.png
