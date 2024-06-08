@@ -6,8 +6,8 @@ Create App Service for on-prem application
 This document shows you how to create an App Service for on-prem application. 
 
 
-App Service is a construct and is deployed on the service provider side when its applications are accessed from 
-consumers as shown in the diagram below. 
+App Service is a construct and is deployed on the service provider side when its applications 
+are accessed from consumers as shown in the diagram below. 
 
 |on-prem-app|
 

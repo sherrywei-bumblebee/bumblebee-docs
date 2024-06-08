@@ -25,6 +25,7 @@ Global Private Link service to everyone on earth.
    AppService/create_app_service_onprem
    AppService/create_app_service_aws
    AppService/create_app_service_azure
+   AppService/create_app_service_openai
 
 .. toctree::
    :caption: Endpoints
