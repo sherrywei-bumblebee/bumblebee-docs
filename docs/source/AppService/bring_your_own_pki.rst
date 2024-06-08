@@ -37,4 +37,4 @@ If you need to edit the above configuration due to, for example, expired certifi
 To disable Import External Certificate, click Manage Node Group at the Service Node Group page, 
 select the Service Node Group, click Actions -> Disable External Root CA. 
 
-.. |import_external_cert| image:: media/import_external_cert
+.. |import_external_cert| image:: media/import_external_cert.png
