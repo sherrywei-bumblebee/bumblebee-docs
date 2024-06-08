@@ -77,3 +77,6 @@ a lower priority site, it stays there until it fails and it then switches back t
 
 The third limitation is the multiple hosting sites cannot handle traffic simultaneously. 
 The traffic handling is strictly in the priority order. 
+
+.. |multi_hosting_illustration| image:: media/multi_hosting_illustration.png
+.. |multi_hosting_cloud_failover| image:: media/multi_hosting_cloud_failover.png
