@@ -25,7 +25,8 @@ This BGP routing enables dynamic failover if one app service or endpoint fails.
 In the diagram above, a branch office deploys 2 Endpoint nodes and in the head office 3 App Service nodes are deployed. Print servers in the head office can initiate print commands to the printers located in the branch offices. 
 
 
-The key features
+Key features
+================
 
 Both Endpoint side of the network and App Service side of the network can initiate traffic.
 App Service nodes and Endpoint nodes have no public IP address associated with them. No inbound firewall ports need to be opened. 
