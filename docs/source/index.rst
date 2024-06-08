@@ -32,4 +32,7 @@ Global Private Link service to everyone on earth.
     
    Endpoints/create_endpoint_onprem
 
-
+.. toctree::
+   :caption: Service Nodes
+    
+   ServiceNodes/create_service_node
