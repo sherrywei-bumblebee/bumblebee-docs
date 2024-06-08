@@ -43,11 +43,12 @@ The following are the steps to configure Multi-Hosting.
 #. Click the Multi-Hosting tab.
 #. Clicking Add Hosting
 #. Select the Hosting location, on-prem, AWS or Azure
-#. 
+#. Options: 
 
     - If you select on-prem, enter the application FQDN name or IP address at the new hosting site, select a service node group in the new hosting site. Click Create. This configuration is similar to create an App Service for on-prem. Refer to this article if you need additional information. 
     - If you select AWS, select the region for the new hosting, enter the AWS Endpoint Service name for the new hosting, click Create. This configuration is similar to create an App Service for AWS. Refer to this article for additional information. 
     - If you select Azure, select the region for the new hosting, enter the Azure Private Link Service ID for the application in the new hosting VNet. This configuration is similar to create an App Service for Azure. Refer to this article for additional information. 
+
 
 #. Done
 
