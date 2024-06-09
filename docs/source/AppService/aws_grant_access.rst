@@ -16,4 +16,4 @@ from Bumblebee Networks. Follow the instructions below to complete the steps.
 
 |accept_connection_request|
 
-.. |accept_connection_request| image:: media/aws_grant_access.png
+.. |accept_connection_request| image:: media/accept_connection_request.png
