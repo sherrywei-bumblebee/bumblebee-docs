@@ -43,6 +43,7 @@ Global Private Link service to everyone on earth.
    :caption: Service Nodes
     
    ServiceNodes/create_service_node
+   ServiceNodes/troubleshoot_service_node
 
 .. toctree::
    :caption: Endpoint Nodes
