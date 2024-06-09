@@ -1,12 +1,12 @@
 ===========================
-Troubleshoot Service Node
+Troubleshoot Endpoint Node
 ===========================
 
 
-Service Node are virtual machines image or hardware devices deployed in on-premise location. 
-They host App Services for remote networks to access applications on-prem. Once deployed, 
+Endpoint Nodes are virtual machines image or hardware devices deployed in on-premise location. 
+They host Endpoints for remote networks to access applications on-prem. Once deployed, 
 they registers with the Bumblebee Networks automatically. You should see them listed on 
-Service Nodes page in a "registered" admin state and "up" Op state. 
+Endpoint Nodes page in a "registered" admin state and "up" Op state. 
 
 
 If you have trouble bringing them up, follow these steps to troubleshoot. 
@@ -28,9 +28,9 @@ You should find its IP address at the virtual machine console, it looks similar 
 Step 2. Check *.bumblebeenet.com is reachable 
 =================================================
 
-The node needs to reach `*.bumblebeenet.com` on TCP port 443 and UDP ports 443 - 448
+The node needs to reach `*.bumblebeenet.com` on TCP port 443 and UDP ports 443
 While the Node does not have a public IP address, it requires outbound access to *.bumblebeenet.com on 
-both TCP port 443 and UDP ports range 443 - 448. 
+both TCP port 443 and UDP ports range 443 
 
 
 Once the Node obtained its IP address, go to http://node_primary_ip:8080 to view diagnostics. The diagnostics page shows if the connection to Bumblebee Networks is successful. If it is not, it shows what the problem is. 

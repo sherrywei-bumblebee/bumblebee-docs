@@ -49,3 +49,4 @@ Global Private Link service to everyone on earth.
    :caption: Endpoint Nodes
     
    EndpointNodes/create_endpoint_node
+   EndpointNodes/troubleshoot_endpoint_node
