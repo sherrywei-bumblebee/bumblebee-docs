@@ -29,8 +29,10 @@ Global Private Link service to everyone on earth.
    AppService/app_service_network_mode
    AppService/multi-hosting
    AppService/app_service_performance
+   AppService/troubleshoot_app_service
    AppService/bring_your_own_pki
    AppService/aws_grant_access
+   
    
 
 
