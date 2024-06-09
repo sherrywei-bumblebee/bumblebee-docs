@@ -30,6 +30,7 @@ Global Private Link service to everyone on earth.
    AppService/multi-hosting
    AppService/bring_your_own_pki
    AppService/aws_grant_access
+   AppService/app_service_performance
 
 
 .. toctree::
