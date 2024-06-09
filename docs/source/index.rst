@@ -29,7 +29,8 @@ Global Private Link service to everyone on earth.
    AppService/app_service_network_mode
    AppService/multi-hosting
    AppService/bring_your_own_pki
-   
+   AppService/aws_grant_access
+
 
 .. toctree::
    :caption: Endpoints
