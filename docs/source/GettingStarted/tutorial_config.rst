@@ -78,6 +78,5 @@ App DNS Name. With this approach the connectivity becomes transparent to your us
 They don't need to know the underlying solution has been changed to using Bumblebee Networks. 
 
 
-.. |app_dna_name| image:: media/app_dns_name.png
+.. |app_dns_name| image:: media/app_dns_name.png
 .. |app_service_id| image:: media/app_service_id.png
-    
