@@ -18,6 +18,7 @@ Global Private Link service to everyone on earth.
   
    GettingStarted/faq
    GettingStarted/how_to_subscribe
+   GettingStarted/tutorial_config
 
 .. toctree::
    :caption: App Services
