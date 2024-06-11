@@ -28,11 +28,11 @@ Endpoint for Consumer in AWS Creation Steps
 #. For AWS Region, select a region where the consumer AWS VPC resides. 
 #. For Allowed Principal, enter the consumer account IAM user or IAM role that is used to send traffic to Bumblebee Networks. Examples are: 
 
- .. code-block:: res
+    .. code-block:: res
 
-    arn:aws:iam::123456789123:root
-    arn:aws:iam::123456789123:user/iam-user-name
-    arn:aws:iam::123456789123:role/iam-role-name
+        arn:aws:iam::123456789123:root
+        arn:aws:iam::123456789123:user/iam-user-name
+        arn:aws:iam::123456789123:role/iam-role-name
 
 
     where ``123456789123`` is the AWS account of the consumer VPC, you may have to create to create an IAM user or IAM role if you don't already have one. 
