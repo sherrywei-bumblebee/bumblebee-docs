@@ -41,6 +41,7 @@ Global Private Link service to everyone on earth.
    :caption: Endpoints
     
    Endpoints/create_endpoint_onprem
+   Endpoints/create_endpoint_aws
 
 .. toctree::
    :caption: Service Nodes
