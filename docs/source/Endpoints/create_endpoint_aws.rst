@@ -39,6 +39,8 @@ Endpoint for Consumer in AWS Creation Steps
     (you can use the root privilege but it is not recommended.) 
 
 
+
+
 #. Click Create. This could take a few minutes. 
 
 
