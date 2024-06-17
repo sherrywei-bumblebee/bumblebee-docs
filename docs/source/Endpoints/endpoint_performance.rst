@@ -59,4 +59,4 @@ Follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthe
 
 Hosts initiated traffic will be load balanced to different Endpoints from this point on. 
 
-|endpoint_node_group| image:: media/endpoint_node_group
+.. |endpoint_node_group| image:: media/endpoint_node_group
