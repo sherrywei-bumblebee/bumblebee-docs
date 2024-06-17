@@ -42,6 +42,7 @@ Global Private Link service to everyone on earth.
     
    Endpoints/create_endpoint_onprem
    Endpoints/create_endpoint_aws
+   Endpoints/endpoint_performance
    Endpoints/troubleshoot_endpoint
 
 .. toctree::
