@@ -48,8 +48,7 @@ Step 1: Create a new endpoint node
 #. Click Download 
 #. Install the OVA in the same on-prem location as the already installed node. It does not need to be on the same subnet. 
 #. Power up the OVA. 
-#. On the Bumblebee console, you should see it registered and in up state. If it does not come up, follow up the 
-    instructions `here <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/EndpointNodes/troubleshoot_endpoint_node.html>`_ to troubleshoot. 
+#. On the Bumblebee console, you should see it registered and in up state. If it does not come up, follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthedocs-hosted.com/en/latest/EndpointNodes/troubleshoot_endpoint_node.html>`_ to troubleshoot. 
 
 Step 2: Create a new endpoint
 ---------------------------------
@@ -59,4 +58,4 @@ Follow the instructions `here <https://bumblebee-networks-bumblebee-docs.readthe
 
 Hosts initiated traffic will be load balanced to different Endpoints from this point on. 
 
-.. |endpoint_node_group| image:: media/endpoint_node_group
+.. |endpoint_node_group| image:: media/endpoint_node_group.png
