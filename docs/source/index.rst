@@ -62,3 +62,7 @@ Global Private Link service to everyone on earth.
     
    Contacts/manage_contacts
    
+  .. toctree::
+   :caption: Settings
+    
+   Settings/manage_contacts 
