@@ -1,5 +1,5 @@
 =======================================================================================================
-Bumblebee platform IAM user management
+IAM user management
 =======================================================================================================
 
 Bumblebee platform supports multiple users access to the platform under the same root account. 
