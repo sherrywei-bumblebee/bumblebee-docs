@@ -56,3 +56,9 @@ Global Private Link service to everyone on earth.
     
    EndpointNodes/create_endpoint_node
    EndpointNodes/troubleshoot_endpoint_node
+
+.. toctree::
+   :caption: Contacts
+    
+   Contacts/manage_contacts
+   EndpointNodes/troubleshoot_endpoint_node
